@@ -1,7 +1,7 @@
 # UAficionado
 
 UAficionado is a small Program that Challanges you. 
-The Idea for this is that. For beginners in Cyber Security, Red Team Vs Blue Team tasks is very hard. Especially for People who are learning by them selves like me.
+The Idea for this is that. For beginners in Cyber Security, Red Team Vs Blue Team tasks are very hard. Especially for People who are learning by them selves like me.
 
 UAficionado is the Red Team, You have to stop it from getting inside your Network. You are the Blue Team.
 UAficionado has 5 levels.
