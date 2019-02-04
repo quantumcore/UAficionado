@@ -1,0 +1,87 @@
+body 
+{
+    background-color: rgb(12, 12, 12);
+    font-family: monospace;
+    color: white;
+    align-content: center;
+    position: center;
+}
+
+
+@keyframes terminaltxt {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes cursor {
+    from, to { border-color: transparent }
+    50% { border-color: white }
+}
+
+.login-page-anim
+{
+    color: lightgreen;
+    overflow: hidden;
+    border-right: .20em solid orange;
+    white-space: nowrap;
+    letter-spacing: .15em;
+    margin: 0 auto;
+    overflow: auto;
+    white-space: no-wrap;
+    animation: terminaltxt 3.5s steps(40, end), cursor .5s step-end infinite;
+
+}
+
+.login-box
+{
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    color: dodgerblue;
+    align-content: center;
+    box-align: center;
+    border-style: groove;
+    position: center;
+    width: 300px;
+    border: 2px solid white;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 5px;
+    -webkit-box-shadow: 2px 3px 23px 1px rgba(0,0,0,0.27);
+    -moz-box-shadow: 2px 3px 23px 1px rgba(0,0,0,0.27);
+}
+
+.input
+{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.gButton
+{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.gButton:hover
+{
+    background-color: seagreen;
+    color: white;
+    border-radius: 10px;
+}
+.other-text
+{
+    color: dodgerblue;
+}
