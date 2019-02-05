@@ -31,4 +31,4 @@ _I think this is only me, If not. If you encounter some errors like these, Pleas
 _Give a fork. Help out a Brother_
 
 # Morse Security
-Cyber Security Team. (Inshallah gonna be big. Not much a 16 year old can do.)
+Cyber Security Team.
