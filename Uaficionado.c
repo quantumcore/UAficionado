@@ -20,7 +20,7 @@ int main(int argc, char const *argv[])
     char name[20];
     if(argc < 2)
     {
-        printf("Morse Security - Pakistan\n");
+        printf("Morse Security -- |\n");
         printf("Blue Team VS Red Team (Program) Simulator.\n");
         printf("Solve the challanges if you can.\n\nUAficionado --help for more information.\n");
         exit(1);
@@ -67,7 +67,7 @@ int main(int argc, char const *argv[])
         exit(1);
     } else if(strcmp(argv[1], "--help") == 0)
     {
-        printf("Morse Security - Pakistan\n");
+        printf("Morse Security -- |\n");
         printf("UAficionado | help\n");
         printf("--> UAficionado --level-<level>\n");
         printf("--> For Example : UAficionado --level-one\n");
