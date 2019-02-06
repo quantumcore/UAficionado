@@ -29,6 +29,9 @@ sudo python3 install.py --install
 ## How to Run
 * Open Terminal anywhere on your PC and type UAficionado
 
+## Screenshots
+![redteamhq](https://i.imgur.com/pDZC38L.png)
+![redteamchat](https://i.imgur.com/SwElZyF.png)
 ## BUGS
 There seems to be some bugs with the Lighttpd Server. It sometimes doesn't stop when stopped and File Upload sometimes not work.
 _I think this is only me, If not. If you encounter some errors like these, Please Create and Issue. Would help a lot, To me and to the players of this Program_
