@@ -21,10 +21,9 @@ _This version is for Linux only. A Windows one is coming being made in .NET Fram
 
 ## How to Install
 * Clone the Repository
-* Run this command in Directory of UAficionado;
-```shell
-sudo python3 install.py --install
-```
+![Clone](https://i.imgur.com/TfmOghb.png)
+![dir](https://i.imgur.com/z1u4Aeq.png)
+![install](https://i.imgur.com/kPv89Nw.png)
 
 ## How to Run
 * Open Terminal anywhere on your PC and type UAficionado
