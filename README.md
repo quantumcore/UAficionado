@@ -1,4 +1,10 @@
 # UAficionado
+![C](https://img.shields.io/badge/C-%7B%7D-lightgrey.svg)
+![Python](https://img.shields.io/badge/Python-3.6-yelow.svg)
+![PHP](https://img.shields.io/badge/PHP----blueviolet.svg)
+![HTML](https://img.shields.io/badge/HTML----important.svg)
+![CSS](https://img.shields.io/badge/CSS----blue.svg)
+![C++](https://img.shields.io/badge/C%2B%2B----pink.svg)
 
 UAficionado is a small Program that Challanges you. 
 The Idea for this is that. For beginners in Cyber Security, Red Team Vs Blue Team tasks are very hard. Especially for People who are learning by them selves.
