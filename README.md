@@ -30,6 +30,8 @@ sudo python3 install.py --install
 * Open Terminal anywhere on your PC and type UAficionado
 
 ## Screenshots
+![cli](https://i.imgur.com/jbprqDv.png)
+![levelone](https://i.imgur.com/4p1UCVj.png)
 ![redteamhq](https://i.imgur.com/pDZC38L.png)
 ![redteamchat](https://i.imgur.com/SwElZyF.png)
 ## BUGS
