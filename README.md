@@ -21,7 +21,7 @@ _This version is for Linux only. A Windows one is coming being made in .NET Fram
 
 ## How to Install
 * Clone the Repository
-![Clone](https://i.imgur.com/TfmOghb.png)
+![Clone](https://i.imgur.com/SuqvbV1.png)
 ![dir](https://i.imgur.com/z1u4Aeq.png)
 ![install](https://i.imgur.com/kPv89Nw.png)
 
