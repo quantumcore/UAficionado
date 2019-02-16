@@ -1,4 +1,10 @@
-# UAficionado
+<p align="center">
+          <img src="https://i.imgur.com/ofOSnTj.png" width=200 height=200>
+</p>
+<p>
+          <h1 align="center">UAficionado</h1>
+</p>
+
 ![C](https://img.shields.io/badge/C-%7B%7D-lightgrey.svg)
 ![Python](https://img.shields.io/badge/Python-3.6-yelow.svg)
 ![PHP](https://img.shields.io/badge/PHP----blueviolet.svg)
