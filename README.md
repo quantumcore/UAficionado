@@ -26,15 +26,17 @@ UAficionado has 5 levels.
 _This version is for Linux only. A Windows one is coming being made in .NET Framework._
 
 ## How to Install
-![Clone](https://i.imgur.com/SuqvbV1.png)
-![dir](https://i.imgur.com/z1u4Aeq.png)
-![install](https://i.imgur.com/kPv89Nw.png)
+```
+git clone https://github.com/Fahad-M/UAficionado.git
+cd UAficionado
+python3 install.py --install
+```
 
 ## How to Run
 * Open Terminal anywhere on your PC and type UAficionado
 
 ## Screenshots
-![cli](https://i.imgur.com/jbprqDv.png)
+
 ![levelone](https://i.imgur.com/4p1UCVj.png)
 ![redteamhq](https://i.imgur.com/pDZC38L.png)
 ![redteamchat](https://i.imgur.com/SwElZyF.png)
@@ -45,5 +47,4 @@ _I think this is only me, If not. If you encounter some errors like these, Pleas
 ## Contribute
 _Give a fork. Help out a Brother_
 
-# Morse Security
-Cyber Security Team.
+
